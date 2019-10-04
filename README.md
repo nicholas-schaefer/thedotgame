@@ -8,7 +8,7 @@
 * [Setup](#setup)
 ​
 ## Live App:
-Play Game now at: [https://nicholas-schaefer.github.io/holdtheline/]
+Play Game now at: [https://nicholas-schaefer.github.io/thedotgame/]
 
 ## About:
 A connect-the-dots game for two players, created by Sid Sackson. 
